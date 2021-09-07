@@ -1,2 +1,2 @@
 ## new
-line[link]
+line
